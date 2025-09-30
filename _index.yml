@@ -1,8 +1,8 @@
 indexpage:
   title: E-Series management using BlueXP
   lead: Discover your E-Series systems from the NetApp Console to get a complete view of data across your hybrid multicloud.
-  summary: Discover your E-Series systems from NetApp COnsole to get a complete view of data across your hybrid multicloud..
-  keywords: bluexp-family, documentation, e-series, cloud, console-family, storage-mgmt-family
+  summary: Discover your E-Series systems from NetApp Console to get a complete view of data across your hybrid multicloud.
+  keywords: bluexp-family, documentation, e-series, cloud, console-family, storage-management-family
   tiles:
     - title: Get started
       links:
