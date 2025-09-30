@@ -1,14 +1,28 @@
 indexpage:
-  title: # Unquoted string 
-  lead: # Quoted string
-  summary: # Quoted string 
-  keywords: # Unquoted comma-delimited list of keywords 
-  tiles: 
-    # Tile definition 
-    - title: # Quoted or unquoted string
-      links: 
-        # Link definition
-        - title: # Quoted or unquoted string
-          url: # Path to target
-        # Next link on this tile (title/url pair)
-    # Next tile on this page (title/links)
+  title: E-Series management using BlueXP
+  lead: Discover your E-Series systems from the NetApp Console to get a complete view of data across your hybrid multicloud.
+  summary: Discover your E-Series systems from NetApp COnsole to get a complete view of data across your hybrid multicloud..
+  keywords: bluexp-family, documentation, e-series, cloud, console-family, storage-mgmt-family
+  tiles:
+    - title: Get started
+      links:
+        - title: Discover E-Series systems
+          url: /task-discover-e-series.html
+    - title: Manage E-Series systems
+      links:
+        - title: View your E-Series systems
+          url: /task-view-e-series.html
+        - title: Remove a system from NetApp Console
+          url: /task-remove-e-series.html
+    - title: Related links
+      links:
+        - title: E-Series documentation for management outside of NetApp Console
+          url: https://docs.netapp.com/us-en/e-series-family/
+    - title: Blogs & community
+      links:
+        - title: NetApp Console
+          url: https://www.netapp.com/console
+        - title: NetApp Data Services
+          url: https://www.netapp.com/data-services/
+        - title: NetApp Community
+          url: https://community.netapp.com/

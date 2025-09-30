@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: task-remove-e-series.html
+keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment, remove system
+summary: Remove an E-Series system from the NetApp Console if you no longer want to manage it from the Console.
+---
+
+= Remove an E-Series from the NetApp Console
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Remove an E-Series system if you no longer want to manage it from the NetApp Console.
+
+.Required NetApp Console role
+Organization admin, Folder or project admin, or Storage admin. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about NetApp Console access roles.^]
+
+Removing the NetApp Console system doesn't affect the E-Series system. You can rediscover it from at any time.
+
+.Steps
+
+. From the navigation menu, select *Storage > Management*.
+
+. On the *Systems* page, select the E-Series system.
+
+. Select the menu icon and select *Remove from Workspace*.
+
+. Select *Remove* to confirm.
