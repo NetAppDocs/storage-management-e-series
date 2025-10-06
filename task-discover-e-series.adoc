@@ -1,0 +1,45 @@
+---
+sidebar: sidebar
+permalink: task-discover-e-series.html
+keywords: e-series, cluster, discover, manage, discovering, discover e-series
+summary: The NetApp Console can discover the E-Series systems in your on-premises environment. Adding E-Series systems to the Console enables you to get a complete view of the data across your hybrid multi-cloud environment.
+---
+
+= Discover E-Series systems
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Adding E-Series systems to the NetApp Console allows you to manage your E-Series systems from the Console and get a complete view of your data infrastructure across your hybrid multi-cloud environment. 
+
+
+.Required NetApp Console role
+Organization admin, Folder or project admin, Storage admin, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about NetApp Console access roles.^]
+
+
+.Before you begin
+
+You need the following:
+
+* A NetApp Console Agent installed in a cloud provider or on your premises, with network connectivity to the E-Series system. You must have the Organization admin role to install a Console agent. If you don't know if your organization has a Console agent, or if you need one created, contact your Console administrator. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator[Contact your Organization admin.^]
+
+* The domain name or IP address of the storage system controller.
+
+* Admin credentials for the E-Series system.
+
+.Steps
+
+. From the navigation menu, select *Storage > Management*.
+
+. From the *Systems* page, select *Add* and select *On-Premises*.
+
+. Next to *E-Series*, select *Discover*.
+
+. On the _E-Series Cluster Details_ page, enter the domain name or IP address of the storage system controller, admin credentials for the system, and then select *Add*.
+
+
+
+

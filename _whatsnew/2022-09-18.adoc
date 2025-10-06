@@ -1,0 +1,2 @@
+=== Support for E-Series
+You can now discover your E-Series systems directly from BlueXP. Discovering E-Series systems provides you with a complete view of data across your hybrid multicloud.
